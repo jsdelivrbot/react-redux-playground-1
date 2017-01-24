@@ -26,12 +26,15 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
+    "axios": "^0.15.3",
     "babel-preset-stage-1": "^6.1.18",
     "lodash": "^4.17.4",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-redux": "^5.0.2",
     "react-router": "^3.0.2",
-    "redux": "^3.0.4"
+    "react-sparklines": "^1.6.0",
+    "redux": "^3.0.4",
+    "redux-promise": "^0.5.3"
   }
 }
